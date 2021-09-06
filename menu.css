@@ -20,6 +20,7 @@ h3{
 td{
 	font-size: 120%;
 	text-align: justify;
+	
 }
 
 p{
@@ -34,7 +35,22 @@ li{
 
 body
 {	
-
+	background-color: #f3e6cf;;
 	font-family: "Helvetica", "Lucida Grande", "sans-serif";
+
 	
+}
+
+main{
+	background-color: white;
+	padding: 20px;
+	border-radius: 10px;
+	
+	max-width: 1000px;	
+	min-width: 320;	
+	margin: auto;
+}
+
+img{
+	width:100%;
 }
