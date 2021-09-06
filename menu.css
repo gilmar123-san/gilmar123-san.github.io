@@ -55,3 +55,9 @@ main{
 img{
 	width:100%;
 }
+
+.alinhamento_tabela{
+	width: 100%;
+	text-align: center;
+	border-collapse: collapse;
+}
